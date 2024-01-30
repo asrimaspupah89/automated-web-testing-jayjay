@@ -114,9 +114,10 @@ gradle clean build
 ```
 
 # Author
-Asri Maspupah
-Jurusan Teknik Komputer dan Informatika
-Politeknik Negeri Bandung
+Asri Maspupah</br>
+Dosen Informatika</br>
+Jurusan Teknik Komputer dan Informatika</br>
+Politeknik Negeri Bandung</br>
 
 # Acknowledgments
 Daftar resource yang dapat dipelajari
