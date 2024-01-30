@@ -23,7 +23,7 @@ Instalation
 
 # Acknowledgments
 Daftar resource yang dapat dipelajari
-- Selenium documentation (https://www.selenium.dev/documentation/)
+- <a href="https://www.selenium.dev/documentation/">Selenium documentation</a>
 - Cucumber documentation
 - TestNg documentation
 
