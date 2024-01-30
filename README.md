@@ -113,6 +113,11 @@ atau bisa juga clean dan build project dapat dilakukan secara bersama-sama denga
 gradle clean build
 ```
 
+# Author
+Asri Maspupah
+Jurusan Teknik Komputer dan Informatika
+Politeknik Negeri Bandung
+
 # Acknowledgments
 Daftar resource yang dapat dipelajari
 - <a href="https://www.selenium.dev/documentation/">Selenium documentation</a>
