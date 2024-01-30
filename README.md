@@ -113,6 +113,23 @@ atau bisa juga clean dan build project dapat dilakukan secara bersama-sama denga
 gradle clean build
 ```
 
+# Software Under test
+Pengujian dilakukan pada aplikasi web Swag Labs yang dapat diakses pada https://www.saucedemo.com/
+[] Fitur yang diuji meliputi fungsi login
+[] Fitur Dashborad yang memeriksa user sudah berada pada halaman dasboar ketika berhasil login
+[] Fungsi penambahan item product ke keranjang (Cart) pada halaman Dasboard
+[] Fungsi penghapusan item product dari keranjang (Cart) pada halaman Dasboard
+
+# Test Case
+Pembuatan test case meliputi test positif dan test negatif, yaitu
+1. Pemeriksaan berhasil login
+2. Pemeriksaan gagal login karena invalid credentian
+3. Pemeriksaan berhasil melakukan penambahan item ke keranjang
+4. Pemeriksaan berhasil melakukan penghapusan item dari keranjang
+
+Note. Pendekatan pengujian menggunakan black box testing pada Fungsionalitas software level unit
+Satuan unit adalah fitur atau fungsi software
+
 # Author
 Asri Maspupah</br>
 Dosen Informatika</br>
