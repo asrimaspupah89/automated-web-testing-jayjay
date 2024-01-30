@@ -22,6 +22,9 @@ Instalation
 # How to Run Execution Testing
 
 # Acknowledgments
-Daftar resource yang dipalajari
+Daftar resource yang dapat dipelajari
+- Selenium documentation (https://www.selenium.dev/documentation/)
+- Cucumber documentation
+- TestNg documentation
 
 
