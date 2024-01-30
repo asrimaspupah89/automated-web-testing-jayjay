@@ -1,5 +1,5 @@
 # automated-web-testing-jayjay
-Projek automation web testing untuk memenuhi tugas dari pelatihan JayJay School Profesional SQA
+Projek automation web testing untuk memenuhi tugas pelatihan JayJay School Profesional SQA. Proyek ini dikembangkan degan menggunakan bahasa java dan semua source code pengujian diletakan pada folder test.
 
 # build With
 Proyek pengujian otomatis melibatkan beberapa library yang dibutuhkan, yaitu
@@ -12,9 +12,19 @@ Proyek pengujian otomatis melibatkan beberapa library yang dibutuhkan, yaitu
 # Getting Started
 
 ## Prerequisite
-Sebelum menjalankan proyek ini, diperluan persyaratan environtmen yang harus disiapkan
+Sebelum menjalankan proyek ini, diperluan persyaratan environtmen yang harus disiapkan pada device eksekusi proyek
 1. JDK diatas versi 8
-2. Gradle 
+2. Gradle versi 8.5 atau Gradle Wrapper
+
+## Instalation
+Proses instalasi proyek ini pada local environment
+1. Download source code git hub
+2. Buka IDE pemrograman. Misalnya Intelj
+3. Buat proyek baru dengan mode import source code existing
+4. Lakukan pengaturan project bagian Java dan Gradle dengan
+   - Arahkan path Java ke lokasi instakasi JDK
+   - Arahkan path Gradle ke lokasi instalasi Gradle, jika Gradle distribution memilih Local Instalation
+   - atau menggunakan Gradle Wraple dengan memilih Wraper sebagai Gradle distributionnya.  
 
 ## File Configuration
 Project ini menggunakan alat build automation Gradle dengan bahasa Groovy. File build.gradle berisi konfigurasi
